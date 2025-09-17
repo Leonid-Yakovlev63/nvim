@@ -3,5 +3,6 @@ return {
 
   { import = "plugins.treesitter" },
   { import = "plugins.java" },     
-  { import = "plugins.example" }
+  { import = "plugins.example" },
+  { import = "plugins.c" }
 }
